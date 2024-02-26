@@ -1,0 +1,54 @@
+Introduction to GitHub
+https://learn.microsoft.com/en-us/training/modules/introduction-to-github/
+
+1 hr 32 min
+Module
+8 Units
+Beginner
+DevOps Engineer
+Administrator
+Developer
+Solution Architect
+Student
+GitHub
+Azure
+Learn to use key GitHub features, including issues, notifications, branches, commits, and pull requests.
+
+Learning objectives
+In this module, you will:
+
+> Identify the fundamental features of GitHub
+> Learn about repository management
+> Gain an understanding of the GitHub flow, including branches, commits, and pull requests
+> Explore the collaborative features of GitHub by reviewing issues and discussions
+> Recognize how to manage your GitHub notifications and subscriptions
+
+Prerequisites
+
+A GitHub account
+
+This module is part of these learning paths
+Automate your workflow with GitHub Actions(https://learn.microsoft.com/training/paths/automate-workflow-github-actions/)
+Build community-driven software projects on GitHub(https://learn.microsoft.com/training/paths/build-community-driven-projects-github/)
+Collaborate with others with Markdown and GitHub Pages(https://learn.microsoft.com/training/paths/collaborate-markdown-github-pages/)
+Get started with GitHub and Visual Studio Code(https://learn.microsoft.com/training/paths/get-started-github-and-visual-studio-code/)
+GitHub fundamentals - Administration basics and product features.(https://learn.microsoft.com/training/paths/github-administration-products/)
+Learn how Microsoft supports secure software development as part of a cybersecurity solution(https://learn.microsoft.com/training/paths/secure-software-development-for-cybersecurity/)
+Manage source control(https://learn.microsoft.com/training/paths/az-400-manage-source-control/)
+Manage the lifecycle of your projects on GitHub(https://learn.microsoft.com/training/paths/manage-project-lifecycle-github/)
+Introduction
+2 min
+What is GitHub?
+8 min
+Components of the GitHub flow
+8 min
+GitHub is a collaborative platform
+8 min
+GitHub platform management
+4 min
+Exercise - A guided tour of GitHub
+58 min
+Knowledge check
+3 min
+Summary
+1 min
