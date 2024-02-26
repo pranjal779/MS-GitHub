@@ -1,0 +1,62 @@
+Knowledge check
+Completed
+200 XP
+4 minutes
+
+1. How do you include a new file to your Git index? 
+
+Using the 'git include' command
+
+Using the 'git add' command
+Correct! Git add will add whatever file you tell it to your git index.
+
+
+Using the 'git commit' command
+2. What does the -m tag do to your commit? 
+
+The -m tag isn't a valid tag in git
+
+The tag modifies your commit if you forgot to add something
+
+This tag allows you to add a message to your commit
+Correct! Make sure to keep your commit messages short and readable
+
+3. Which of these is a good example of a commit message? 
+
+Add feature to alert admin for new user registration...
+Correct! A good rule of thumb is to keep your git commit messages under 50 words and make sure they are descriptive to other developers.
+
+
+added new feature
+
+Add name, age, height, weight, and salary labels with corresponding text boxes and more over a Submit Button to the webpage to ensure the user is clear on what is being added...
+Incorrect. This commit, while being quite descriptive of the work done, adds a lot of information that might be too much.
+
+4. What is a way to fix one of your past commits without needing to make a new commit? 
+
+Deleting the file and creating a new one in its place with the correct changes.
+
+Utilizing the Git 'amend' tag
+Correct! Using amend means that you're changing what was put in the initial commit!
+
+
+Revert the commit and make a new one
+5. How do you choose between Git reset and Git checkout to recover a lost file? 
+
+Git checkout can recover a file you might have accidentally deleted. Git Reset, will recover a file you deleted using the 'git rm' command
+Correct! Git checkout updates your file with the one present in the git index, while git reset unstages files deleted.
+
+
+Always use git checkout because it is the safer option
+
+Create a new file with the same name and use Git reset
+6. When should you avoid changing a past commit? 
+
+Avoid amending commits that other developers have based their work on
+Correct! When you amend a commit the past commit before it is gone and replaced by your amended commit.
+
+
+When you want to add a new file to your commit
+
+When you want to change the not most recent commit.
+Next unit: Summary
