@@ -191,12 +191,15 @@ Check the output again. This time, it should look like this example:
 
 Output
 
-Copy
+
 ae3f99c Add a simple stylesheet
 4d07803 Make small wording change; ignore editor backups
 f827c71 Add HTML boilerplate to index.html
 45535f0 Add a heading to index.html
 a69fe78 Create an empty index.html file
+
+
+
 You can see why, when you're hundreds (or thousands) of commits into a project, the --oneline option might be your best friend. Another useful option is -nX, where X is a commit number: 1 for the latest commit, 2 for the one before that, and so on. To see for yourself, try a git log -n2 command.
 
 We've made substantial progress by using the basic functionality of Git. Next up: Step it up a level and learn how to use Git to recover from common mistakes.
