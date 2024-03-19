@@ -20,15 +20,15 @@ Prerequisites
 Familiarity with GitHub, repositories, and the basics of managing individual accounts is required.
 This module is part of these learning paths
 GitHub fundamentals - Administration basics and product features.
-Introduction
-1 min
-GitHub accounts and plans
-10 min
-GitHub Mobile and GitHub Desktop
-4 min
-GitHub billing
-3 min
-Knowledge check
-4 min
-Summary
-1 min
+
+Introduction 1 min
+
+GitHub accounts and plans 10 min
+
+GitHub Mobile and GitHub Desktop 4 min
+
+GitHub billing 3 min
+
+Knowledge check 4 min
+
+Summary 1 min
