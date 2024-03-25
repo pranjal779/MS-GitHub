@@ -302,3 +302,37 @@ Get help: Post in our discussion board • Review the GitHub status page
 © 2023 GitHub • Code of Conduct • MIT License
 
 <hr>
+
+## 6
+## Finish
+Congratulations friend, you've completed this course!
+
+celebrate
+
+Here's a recap of all the tasks you completed:
+
+- Set up Copilot inside a Codespace.
+- Use Copilot to accept suggested code.
+- Use Copilot's hub for alternate suggestions.
+- Leverage comments to have Copilot auto-suggest code.
+
+
+## Additional learning and resources
+    + Copilot for Individuals
+    + Copilot for Business
+    + Getting started with Copilot
+    + Configure Copilot settings
+
+## What's next?
+    - We'd love to hear what you thought of this course.
+    - Learn another GitHub skill.
+    - Read the Get started with GitHub docs.
+    - To find projects to contribute to, check out GitHub Explore.
+
+
+Get help: Post in our discussion board • Review the GitHub status page
+
+© 2023 GitHub • Code of Conduct • MIT License
+
+<hr>
+<hr>
