@@ -183,6 +183,7 @@ Get help: Post in our discussion board • Review the GitHub status page
 
 <hr>
 
+## 4
 ## Step 3: View the GitHub Copilot tab with multiple suggestions
 Nice work! You just used AI code suggestions within a Javascript file by using GitHub Copilot ✨
 
