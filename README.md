@@ -15,5 +15,7 @@ Created by GitHub Training
 2 hr 8 min remaining
 https://learn.microsoft.com/en-us/training/paths/intro-to-vc-git/
 
+studious space succotash deleted
+
 ---
 ## [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
