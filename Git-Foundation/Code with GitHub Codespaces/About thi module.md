@@ -27,3 +27,13 @@ Codespaces versus GitHub.dev editor 4 min
 Exercise - Code with Codespaces and Visual Studio Code 5 min
 Knowledge check 5 min
 Summary 2 min
+
+
+fantastic meme
+Active
+
+main
+*
+Uncommitted changes
+
+bookish space couscous
