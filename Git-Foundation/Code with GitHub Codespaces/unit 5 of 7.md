@@ -200,4 +200,77 @@ Next lets add some code to run upon creation of the codespace!
 
 10) Wait about 20 seconds then refresh this page (the one you're following instructions from). GitHub Actions will automatically update to the next step.
 
+
+# Step 4: Personalize your codespace!
+Nicely done customizing your codespace! 🥳
+
+When using any development environment, customizing the settings and tools to your preferences and workflows is an important step. GitHub Codespaces offers two main ways of personalizing your codespace: Settings Sync with VS Code and dotfiles.
+
+Dotfiles will be the focus of this activity.
+
+What are dotfiles? Dotfiles are files and folders on Unix-like systems starting with . that control the configuration of applications and shells on your system. You can store and manage your dotfiles in a repository on GitHub.
+
+Let's see how this works!
+
+## ⌨️ Activity: Enable a dotfile for your codespace
+1) Start from the landing page of your repository.
+2) In the upper-right corner of any page, click your profile photo, and then click Settings.
+3) In the Code, planning, and automation section of the sidebar, click Codespaces.
+4) Under Dotfiles, select Automatically install dotfiles so that GitHub Codespaces automatically installs your dotfiles into every new codespace you create.
+5) Click Select repository and then choose your current skills working repository as the repository from which to install dotfiles.
+## ⌨️ Activity: Add a dotfile to your repository and run your codespace
+1) Start from the landing page of your repository.
+
+2) Click the Code button located in the middle of the page.
+
+3) Click the Codespaces tab on the box that pops up.
+
+4) Click the Create codespace on main button.
+    Wait about 2 minutes for the codespace to spin itself up.
+
+5) Verify your codespace is running. The browser should contain a VS Code web-based editor and a terminal should be present such as the below:
+![207355196-71aab43f-35a9-495b-bcfe-bf3773c2f1b3](https://github.com/pranjal779/MS-GitHub/assets/50409572/ebc26738-4afd-415a-98c7-c0dc23785798)
+
+6) From inside the codespace in the VS Code explorer window, create a new file setup.sh.
+
+7) Add the following code inside of the file:
+```
+#!/bin/bash
+
+sudo apt-get update
+sudo apt-get install sl
+```
+8) Save the file.
+
+Note: The file should autosave.
+
+9) Commit the file changes. From the VS Code terminal enter:
+```
+git add setup.sh --chmod=+x
+git commit -m "Adding setup.sh from the codespace!"
+```
+10) Push the changes back to your repository. From the VS Code terminal, enter:
+```
+git push
+```
+11) Switch back to the homepage of your repository and view the setup.sh to verify the new code was pushed to your repository.
+
+12) Close the codespace web browser tab.
+
+13) Click the Create codespace on main button.
+    Wait about 2 minutes for the codespace to spin itself up.
+
+14) Verify your codespace is running, as you did previously.
+
+15) Verify the setup.sh file is present in your VS Code editor.
+
+16) From the VS Code terminal, type or paste:
+```
+/usr/games/sl
+```
+17) Enjoy the show!
+
+18) Wait about 20 seconds then refresh this page (the one you're following instructions from). GitHub Actions will automatically update to the next step.
+
+
 ## Next unit: Knowledge check
