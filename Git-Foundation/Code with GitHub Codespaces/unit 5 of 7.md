@@ -273,4 +273,28 @@ git push
 18) Wait about 20 seconds then refresh this page (the one you're following instructions from). GitHub Actions will automatically update to the next step.
 
 
+# Finish
+Congratulations friend, you've completed this course!
+
+celebrate
+
+Here's a recap of all the tasks you've accomplished in your repository:
+
+You learned how to create a codespace and push code to your repository from the codespace.  
+You learned how to use custom images in your codespace.  
+You learned how to customize your codespace.  
+You learned how to personalize your codespace.  
+Additional learning and resources  
+Developing in a codespace. Learn how to delete a codespace, open an existing codespace, connect to a private network, forward ports, and much more.  
+Set up your repository. Learn how to set minimum machine specs for a codespace, add badges, set up a template repo, and much more.  
+Personalize and customize GitHub Codespaces. Learn how to use setting sync for your codespace, add dotfiles, set the default region, set the default editor, and much more.  
+Prebuild your codespace  
+Manage your codespace  
+What's next?  
+Learn more about securing your supply chain by reading: GitHub Codespaces overview.  
+We'd love to hear what you thought of this course.  
+Learn another GitHub skill.  
+Read the Get started with GitHub docs.  
+To find projects to contribute to, check out GitHub Explore.  
+
 ## Next unit: Knowledge check
