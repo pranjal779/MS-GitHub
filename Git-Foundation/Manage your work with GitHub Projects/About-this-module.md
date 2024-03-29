@@ -21,6 +21,7 @@ Know how to develop automation and insights from your Project
 Prerequisites  
 - A GitHub account  
 - Access to an organization  
+
 Introduction  1 min
 Projects versus Projects Classic 5 min  
 How to create a project 5 min  
