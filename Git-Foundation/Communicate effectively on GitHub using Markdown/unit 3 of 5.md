@@ -90,3 +90,21 @@ Above your new content, click Preview.
 At the bottom of the page, type a short, meaningful commit message that describes the change you made to the file.  
 Click Commit changes.  
 Wait about 20 seconds then refresh this page (the one you're following instructions from). GitHub Actions will automatically update to the next step.
+
+Step 2: Add an image
+Great job adding headers to the file ✨
+
+Let's add an image. Include descriptive text in the square brackets. This text is read aloud for people using screen readers. It's also shown at times when your image doesn't display, such as when there's a poor connection. You can see the syntax for images below:
+
+Example
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+How it looks
+Image of Yaktocat
+
+⌨️ Activity: Adding an image
+As you did before, edit the index.md file in this pull request.
+In the file, add the correct Markdown for your image of choice. Don't forget to include alt-text!
+Use the Preview tab to check your Markdown formatting.
+Commit your changes.
+Wait about 20 seconds then refresh this page (the one you're following instructions from). GitHub Actions will automatically update to the next step.
+
