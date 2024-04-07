@@ -108,3 +108,92 @@ Use the Preview tab to check your Markdown formatting.
 Commit your changes.
 Wait about 20 seconds then refresh this page (the one you're following instructions from). GitHub Actions will automatically update to the next step.
 
+Step 3: Add a code example
+Great job adding an image to the file 🎉
+
+In addition to code blocks, some code blocks should be rendered differently depending on the language, such as JavaScript or command-line text.
+
+Example 1
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+How it looks
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+Example 2
+``` javascript
+var myVar = "Hello, world!";
+```
+How it looks
+var myVar = "Hello, world!";
+⌨️ Activity: Adding a code example
+As you did before, edit the file in this pull request.
+In the file, add the correct Markdown for a code example of your choice.
+Use the Preview tab to check your Markdown formatting.
+Commit your changes.
+Wait about 20 seconds then refresh this page (the one you're following instructions from). GitHub Actions will automatically update to the next step.
+
+
+Step 4: Make a task list
+Great job adding a code example to the file 🥳
+
+What is a task list? A task list creates checkboxes to check off. They're very useful for tracking issues and pull requests. If you include a task list in the body of an issue or pull request, you'll see a progress indicator in your issue list. The syntax for task lists is very specific. Be sure to include the spaces where required, or else they won't render.
+
+Example
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+How it looks
+ List syntax is required
+ This item is complete
+ This item is not complete
+⌨️ Activity: Add a task list
+GitHub Actions went ahead and made a branch for you. So you'll need to add to the file we've created in the branch, and we will check your work as you work through this course!
+
+Return to your pull request.
+
+Use Markdown to create a task list. Here is an example:
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+Remember, a task list starts with the syntax - [ ] and then the task list item. The formatting is specific!
+
+Use the Preview tab to check your Markdown formatting.
+
+Commit the changes to the file.
+
+Wait about 20 seconds then refresh this page (the one you're following instructions from). GitHub Actions will automatically update to the next step.
+
+Step 5: Merge your pull request
+Great job adding a task list to the file ❤️
+
+You can now merge your pull request!
+
+⌨️ Activity: Merge your pull request
+Click Merge pull request.
+Wait about 20 seconds then refresh this page (the one you're following instructions from). GitHub Actions will automatically update to the next step.
+
+Finish
+Congratulations friend, you've completed this course!
+
+celebrate
+
+Here's a recap of all the tasks you've accomplished in your repository:
+
+You learned about Markdown, headings, images, code examples, and task lists.
+You created and merged a Markdown file.
+You learned an essential GitHub skill. 🎉
+What's next?
+You can enable GitHub Pages and see your Markdown file as a website!
+Under your repository name at the upper right, click ⚙️ Settings.
+Then on the lower left, click Pages in the Code and automation section.
+In the GitHub Pages section, ensure "Deploy from a branch" is selected from the Source drop-down menu, and then select main from the Branch drop-down menu as your GitHub Pages publishing source.
+Click the Save button.
+Wait about 30 seconds then refresh the page. When you see "Your site is published at ..." you can click on the link to see your published site.
+Learn more about Markdown.
+We'd love to hear what you thought of this course in our discussion board
+Take another GitHub Skills course.
+Read the GitHub Getting Started docs.
+To find projects to contribute to, check out GitHub Explore.
