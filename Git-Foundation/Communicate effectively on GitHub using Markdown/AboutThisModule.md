@@ -1,4 +1,4 @@
-# Communicate effectively on GitHub using Markdown  
+# [Communicate effectively on GitHub using Markdown](https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/)  
 1 hr 6 min - Module - 5 Units  
 Beginner - DevOps Engineer - Administrator - Developer - Solution Architect - Student - GitHub - Azure  
 Learn to use Markdown to communicate with brevity, clarity, and expression.
