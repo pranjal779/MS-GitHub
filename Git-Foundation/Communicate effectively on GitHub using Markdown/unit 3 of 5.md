@@ -13,9 +13,9 @@ When you select the Start the exercise on GitHub button below, you'll be directe
 
 When you finish the exercise in GitHub, return here to:  
 
-[X]Complete a quick knowledge check
-[X]Review a summary of what you've learned
-[X]Earn a badge for completing this module
+[X]Complete a quick knowledge check  
+[X]Review a summary of what you've learned  
+[X]Earn a badge for completing this module  
  
  !Note
 
