@@ -1,6 +1,8 @@
 # MS-GitHub
 GitHub Learning for certification
 
+### [My-Microsoft-Learn-Badges-Section](https://learn.microsoft.com/en-us/users/pranjalshukla-4794/#badges-section)
+
 # COLLECTION
 <h3><a href="https://learn.microsoft.com/en-us/collections/o1njfe825p602p" alt="GitHub Foundations byn Microsoft Learn">GitHub Foundations</a></h3>
 
