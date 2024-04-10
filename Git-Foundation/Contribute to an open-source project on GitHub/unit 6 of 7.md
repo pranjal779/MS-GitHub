@@ -3,7 +3,7 @@ Completed 200 XP 4 minutes
 
 ## Contribute to an open-source project using GitHub
 
-1. What is the best place on a GitHub repository to find where you can help a project? 
+#### 1. What is the best place on a GitHub repository to find where you can help a project? 
 
 The README file
 
@@ -15,7 +15,7 @@ The search bar
 
 The LICENSE file
 
-2. What is the preferred way to ask for help or reviews on a pull request? 
+#### 2. What is the preferred way to ask for help or reviews on a pull request? 
 
 Send a negative or disrespectful comment to the project's maintainers via social media.
 
@@ -29,7 +29,7 @@ Correct. You can either directly request a review or add a comment to your pull 
 
 Send an email to a random committer on the project
 
-3. What is needed before you can create a pull request on GitHub? 
+#### 3. What is needed before you can create a pull request on GitHub? 
 
 Send a patch file to maintainers via email
 
