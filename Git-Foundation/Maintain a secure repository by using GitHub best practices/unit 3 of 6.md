@@ -22,5 +22,7 @@ This exercise is a challenge based on content covered in this module, and there 
 
 When you finish the exercise in GitHub, return here for your next unit.
 
+[The Exercise for this unit](https://github.com/pranjal779/secure-code-game-Exercise)
+
 ## Next unit: Automated security
 
