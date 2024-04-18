@@ -4,13 +4,14 @@ Completed
 3 minutes  
 
 ## 1. What type of user authentication is used to verify a user identity against a known identity provider? 
-
+Incorrect  
 Two-factor authentication (2FA)
 Two-Factor authentication is another level of security available to GitHub Enterprise accounts.
 
 
 Time-based One-time Password (TOTP)
 
+Correct
 SAML Single Sign-on (SAML SSO)
 SAML authentication is a process used to verify user identity and credentials against a known identify provider.
 
