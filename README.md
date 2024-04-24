@@ -13,9 +13,8 @@ Created by GitHub Training
 
 <br>
 <hr>
-<h3>Introduction to version control with Git - Microsoft Learning</h3>
-2 hr 8 min remaining
-https://learn.microsoft.com/en-us/training/paths/intro-to-vc-git/
+
+##### [Introduction to version control with Git - Microsoft Learning](https://learn.microsoft.com/en-us/training/paths/intro-to-vc-git/)
 
 
 studious space succotash deleted
